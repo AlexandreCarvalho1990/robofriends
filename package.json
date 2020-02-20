@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://alexandrecarvalho1990.github.io/robofriends",
   "dependencies": {
+    "gh-pages": "^2.2.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "^3.4.0",
